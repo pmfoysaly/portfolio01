@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio01=self.webpackChunkportfolio01||[]).push([[458],{458:function(e,o,s){e.exports=s.p+"static/media/image (7).84edb202af936dd49bca.svg"}}]);
